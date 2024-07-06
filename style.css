@@ -1,0 +1,17 @@
+.top-header{
+    background-color: #e5547384;
+    display: flex;
+    padding: 100px 100px 20px;
+    align-items: center;
+
+
+}
+button{
+    background-color:#e5547384 ;
+    border: none;
+    width: 177px;
+    height: 64px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
