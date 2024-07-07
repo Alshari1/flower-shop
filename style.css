@@ -1,17 +1,43 @@
 .top-header{
     background-color: #e5547384;
     display: flex;
-    padding: 100px 100px 20px;
+    justify-content: space-between;
+    /* padding: 100px 100px 20px; */
     align-items: center;
-
-
+}
+.top-header img{
+    height: 700px;
 }
 button{
     background-color:#e5547384 ;
     border: none;
-    width: 177px;
-    height: 64px;
+    width: 130px;
+    height: 42px;
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.sec-1 > h1{
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.sec-1 > p{
+    font-size: 15px;
+}
+.img-section{
+    /* border: 2px solid red; */
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 20px 20px 0 0 ;
+    
+
+}
+.sign-up{
+    width: 50%;
+    text-align: center;
+    padding: 100px;
+    /* border: 2px solid black; */
+}
+.instagram img{
+    height: 300px;
 }
